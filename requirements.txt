@@ -32,3 +32,4 @@ transformers
 mlperf-logging@git+https://github.com/mlperf/logging.git
 google-jetstream
 jsonlines
+flask==2.1.3
